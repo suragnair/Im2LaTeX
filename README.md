@@ -7,4 +7,4 @@ An implementation of the Show, Attend and Tell paper in TensorFlow, for the Open
 
 - An example of attention map over an input LaTeX formula image, as the decoder outputs each token.
 
-![alt tag](https://raw.githubusercontent.com/suragnair/Im2LaTeX/master/attn)
+![alt tag](https://raw.githubusercontent.com/suragnair/Im2LaTeX/master/attn.png)
